@@ -1,0 +1,32 @@
+* {
+}
+
+.LogButtonFormat {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  margin-left: 32.5%;
+  margin-right: 80%;
+  width: 35%;
+}
+
+.Info {
+  padding: 12px;
+  /* display: flex; */
+  /* justify-content: space-between; */
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-width: 3px;
+  border-radius: 5px;
+}
+
+.confirmColor {
+  background-color: #0096ff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding-left: 37px;
+  padding-right: 37px;
+}

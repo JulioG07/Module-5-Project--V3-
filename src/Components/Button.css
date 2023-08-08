@@ -1,0 +1,42 @@
+.Log {
+  border-radius: 25% 10%;
+  background-color: #ff8243;
+  padding: 13px;
+  padding-left: 25px;
+  padding-right: 25px;
+  font-weight: bold;
+  margin-top: 20px;
+  color: white;
+}
+
+.Log:hover {
+  background-color: white;
+  color: #ff8243;
+}
+
+.Sign {
+  border-radius: 25% 10%;
+  color: white;
+  background-color: #ff8243;
+  padding: 13px;
+  padding-left: 25px;
+  padding-right: 25px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.Sign:hover {
+  background-color: white;
+  color: #ff8243;
+}
+
+.ButtonFormat {
+  display: flex;
+  justify-content: flex-end;
+  /* flex-direction: row; */
+  /* justify-content: space-around; */
+}
+
+.test {
+  padding-right: 10px;
+}

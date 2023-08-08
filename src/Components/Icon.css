@@ -1,0 +1,18 @@
+.homeIcon {
+  display: flex;
+  justify-content: left;
+  position: absolute;
+  padding-left: 50px;
+}
+
+.iconColor {
+  color: #ff8243;
+}
+
+.iconColor:hover {
+  color: grey;
+}
+
+#bg-color {
+  color: white;
+}

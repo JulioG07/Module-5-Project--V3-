@@ -1,0 +1,27 @@
+.TitleI {
+  margin-top: 3vh;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-weight: bold;
+}
+/* 
+.TitleII {
+  border-bottom: inset 3px #ff8243;
+} */
+
+.TitleIII {
+  display: flex;
+  justify-content: left;
+  padding-left: 5%;
+  border-style: none;
+  font-size: 25px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.Title {
+  font-size: 60px;
+  padding-right: 5%;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}

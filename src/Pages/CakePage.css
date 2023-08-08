@@ -1,0 +1,16 @@
+.cake-header {
+  background-color: #ff8da1;
+  height: 60px;
+  display: flex;
+  justify-content: start;
+  padding-left: 0.75%;
+  align-items: center;
+}
+
+.space-top {
+  padding-top: 5vh;
+}
+
+.space-top-additional {
+  padding-top: 7.5vh;
+}

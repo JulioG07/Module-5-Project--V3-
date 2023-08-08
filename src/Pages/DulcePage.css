@@ -1,0 +1,8 @@
+.dulce-header {
+  background-color: #79cddd;
+  height: 60px;
+  display: flex;
+  justify-content: start;
+  padding-left: 0.75%;
+  align-items: center;
+}

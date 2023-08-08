@@ -1,0 +1,18 @@
+.Info {
+  padding: 12px;
+  /* display: flex; */
+  /* justify-content: space-between; */
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-width: 3px;
+  border-radius: 5px;
+}
+
+.confirmColorII {
+  background-color: #0096ff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding-left: 65px;
+  padding-right: 65px;
+}

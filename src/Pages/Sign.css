@@ -1,0 +1,27 @@
+.color {
+  background-color: #ff8243;
+}
+
+.centerSignin {
+  height: 750px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.signBox {
+  background-color: white;
+  width: 30%;
+  padding-top: 15vh;
+  padding-bottom: 7.5vh;
+  border-radius: 15px;
+  border: 2px solid grey;
+}
+
+#signIn {
+  margin-bottom: 10px;
+}
+
+.fullScreen {
+  background-color: #ff8243;
+}

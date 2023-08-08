@@ -1,0 +1,56 @@
+Header {
+  background-color: #fff5ee;
+}
+/* 
+.TitleIV{
+  display: flex;
+  justify-content: center;
+} */
+
+.homeColor {
+  background-color: #f5f5f5;
+  height: 100vh;
+}
+
+.Space {
+  height: 50px;
+}
+
+.imgStyle {
+  height: 58vh;
+  border: solid #ff8243 4px;
+}
+
+.homeLogo {
+  position: relative;
+  border: solid 4px;
+  border-right: none;
+  border-left: none;
+  background-color: #433a3f;
+  padding-top: 2.5%;
+  padding-bottom: 2.5%;
+
+  /* #DBDBDB default color 
+
+  /* border: solid black 3px;
+  margin-left: 60vh;
+  margin-right: 60vh;
+  padding-bottom: 8vh;
+  padding-top: 8vh;
+  background-color: #ff8243; */
+}
+
+/* 
+#stamford {
+  color: coral;
+} */
+
+.mainTitle {
+  display: flex;
+  justify-content: center;
+  border-bottom: solid 3px #ff8243;
+  width: 25%;
+  position: absolute;
+  left: 37%;
+  padding-top: 1.5%;
+}

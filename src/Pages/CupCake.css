@@ -1,0 +1,8 @@
+.cupcake-header {
+  background-color: #ffe553;
+  height: 60px;
+  display: flex;
+  justify-content: start;
+  padding-left: 0.75%;
+  align-items: center;
+}
